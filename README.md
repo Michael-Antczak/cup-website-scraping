@@ -2,7 +2,7 @@
 
 ### Background 
 
-This is the task that I was given in 2014 while working in the Acquitions Department at the University of Edinburgh. I was asked to get the publication data for almost 3800 ebooks from our collection. I was expected to do it manually. Input data that I received is in file CUPyear-copy.xlsx
+This is the task that I was given in 2014 while working in the Acquitions Department at the University of Edinburgh. I was asked to get the publication data for almost 3800 ebooks from our collection. I was expected to do it manually. Input data that I received is in file "CUPyear-copy.xlsx"
 
 ### Initial time estimation
 
@@ -30,6 +30,7 @@ I decided to use Python and Beautiful Soup library for this. The script would pu
 
 ### Outcome
 
+I started the script at the end of the workday. The next day it turned out that it took few hours to finish, although up to 200 items were missing. I just re-run the script again. Overall, it too one afternoon to finish. 
 
 
 
